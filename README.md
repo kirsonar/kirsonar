@@ -1,0 +1,2 @@
+# Firefox
+Mozilla splash page
